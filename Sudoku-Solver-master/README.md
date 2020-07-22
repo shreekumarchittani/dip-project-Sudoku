@@ -44,7 +44,7 @@ It uses a collection of basic image processing techniques and K-Nearest Neighbor
 <img alt="After Prepocessing" src="/Screenshots/After Prepocessing.jpg?raw=true" width="480px">
 
 #### After Perspective Transformation -
-<img alt="After Warp perspective" src="/Screenshots/After Warp perspective.jpg?raw=true" width="280px">
+<img alt="After Warp perspective" src="https://github.com/shreekumarchittani/dip-project-Sudoku/blob/master/Sudoku-Solver-master/Screenshots/After%20Prepocessing.jpg" width="280px">
 
 #### Extracting Digit - 
 <img alt="Extract Digit" src="/Screenshots/Extract Digit.jpg?raw=true" width="50px">
