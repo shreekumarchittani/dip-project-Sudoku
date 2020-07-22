@@ -35,19 +35,3 @@ It uses a collection of basic image processing techniques and K-Nearest Neighbor
 3. Extracting the cells of the sudoku
 4. Recognising the digits (OCR)
 5. Solve the sudoku
-
-
-#### Input Image -
-<img alt="Input Sudoku" src="/Screenshots/Sudoku.jpg?raw=true" width="480px">
-
-#### Image After Prepocessing -
-<img alt="After Prepocessing" src="/Screenshots/After Prepocessing.jpg?raw=true" width="480px">
-
-#### After Perspective Transformation -
-<img alt="After Warp perspective" src="https://github.com/shreekumarchittani/dip-project-Sudoku/blob/master/Sudoku-Solver-master/Screenshots/After%20Prepocessing.jpg" width="280px">
-
-#### Extracting Digit - 
-<img alt="Extract Digit" src="/Screenshots/Extract Digit.jpg?raw=true" width="50px">
-
-#### Solved Sudoku -
-<img alt="Solved Sudoku" src="/Screenshots/Solved Sudoku.jpg?raw=true" width="280px">
